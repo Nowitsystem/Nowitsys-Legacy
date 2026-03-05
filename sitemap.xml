@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+			   <?xml-stylesheet type="text/xsl" href="stylesheet.xslt"?>
+
+                     
+
+			    <urlset   
+			    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   
+			    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+                      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"   
+			    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"   
+			    >
+<url><loc>https://nowitsys.com</loc><lastmod>2024-03-05T18:00:52.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/home</loc><lastmod>2024-03-05T18:00:52.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/itam</loc><lastmod>2024-03-05T16:27:02.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/itsm</loc><lastmod>2024-03-05T16:29:19.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/grc</loc><lastmod>2024-03-05T16:23:03.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/secops</loc><lastmod>2024-03-05T16:32:27.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/hrsd</loc><lastmod>2024-03-05T16:24:15.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/csm</loc><lastmod>2024-03-05T16:08:38.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/fsm</loc><lastmod>2024-03-05T16:21:18.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/performance-analytics</loc><lastmod>2024-03-05T16:31:32.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/now-mobile</loc><lastmod>2024-03-05T16:30:29.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/itom</loc><lastmod>2024-03-05T16:28:11.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/spm</loc><lastmod>2024-03-05T16:35:33.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/app-engine</loc><lastmod>2024-03-05T16:03:38.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/about-us</loc><lastmod>2024-03-05T16:00:30.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/career</loc><lastmod>2024-03-05T16:05:37.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-stories</loc><lastmod>2024-03-05T16:43:47.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/contact-form</loc><lastmod>2024-03-05T16:06:57.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/services</loc><lastmod>2024-03-05T16:33:57.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/terms-conditions</loc><lastmod>2024-03-05T16:37:09.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/integrations</loc><lastmod>2024-03-05T16:25:58.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-story-itsm</loc><lastmod>2024-03-05T17:02:21.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-story-vulnerability-response</loc><lastmod>2024-03-05T16:49:12.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-story-csm</loc><lastmod>2024-03-05T16:51:28.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-story-hrsd</loc><lastmod>2024-03-05T16:51:28.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-story-spm</loc><lastmod>2024-03-05T16:51:28.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-story-ae</loc><lastmod>2024-03-05T16:51:28.000Z</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>https://nowitsys.com/success-story-hrsd02</loc><lastmod>2024-03-05T16:51:28.000Z</lastmod><changefreq>weekly</changefreq></url>s
+
+</urlset>
+
